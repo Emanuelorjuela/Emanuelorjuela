@@ -18,7 +18,7 @@
 
 - :globe_with_meridians: I develop web applications and landing pages with `scalable structure`, `BEM methodology`, and clear separation of responsibilities.
 
-- - :nerd_face: Always learning and improving my problem-solving skills.
+- :nerd_face: Always learning and improving my problem-solving skills.
 
 - :rocket: Currently seeking a `Junior Developer` opportunity to apply strong technical foundations and continue growing professionally.
 
