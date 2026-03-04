@@ -36,6 +36,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 
 <p align="center">
+  
   <code> <img height="80" src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGbS8zY7cesrT5t12lRvGKdg=/indexeddb-2023-01-04%2000-00-00-2025-12-04%2004-34-34"> </code>
   <code> <img height="80" src="https://jquery-plugins.net/image/plugin/sheetjs-js-xlsx-spreadsheet-parser-and-writer.png"> </code>
   
