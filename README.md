@@ -33,5 +33,14 @@
   <code> <img height="72" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png"> </code>
 </p>
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+
+<p align="center">
+  <code> <img height="80" src="https://lesdieuxducode.com/images/blog/titleimages/indexeddb-0.png"> </code>
+  <code> <img height="80" src=""> </code>
+  <code> <img height="72" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png"> </code>
+  
+</p>
+
 
   
