@@ -10,14 +10,14 @@
 
 <br><br>
 
-* 👨‍💻 Desarrollador Frontend enfocado en JavaScript puro (Vanilla JS) y arquitectura modular.
+- 👨‍💻 Desarrollador Frontend enfocado en JavaScript puro (Vanilla JS) y arquitectura modular.
 
-* ⚙️ Creador de **Qubik Timer (3×3)** con IndexedDB, scrambles tipo competición y estadísticas avanzadas (Mo3–Ao100).
+- ⚙️ Creador de **Qubik Timer (3×3)**, una aplicación web para practicar el cubo Rubik que genera mezclas automáticas, guarda tiempos en el navegador y calcula estadísticas avanzadas de rendimiento.
 
-* 📦 Desarrollé un sistema real de conciliación de inventario tipo POS con lectura/exportación de Excel y escaneo por código de barras.
+-📦 Desarrollé un sistema real de conciliación de inventario tipo POS con lectura/exportación de Excel y escaneo por código de barras.
 
-* 🌐 Construyo aplicaciones y landing pages con estructura escalable, BEM y separación clara de responsabilidades.
+- 🌐 Construyo aplicaciones y landing pages con estructura escalable, BEM y separación clara de responsabilidades.
 
-* 🚀 Busco una oportunidad como desarrollador Junior para aportar base técnica sólida y seguir creciendo profesionalmente.
+- 🚀 Busco una oportunidad como desarrollador Junior para aportar base técnica sólida y seguir creciendo profesionalmente.
 
 <br>
