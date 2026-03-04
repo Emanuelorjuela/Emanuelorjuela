@@ -11,7 +11,7 @@
 <br>
 
 - :technologist: Frontend Developer focused on `Vanilla JavaScript` and `modular architecture`.
-- 
+  
 - :gear: Creator of `Qubik Timer (3×3)`, a web application to measure and improve Rubik’s Cube solving times, with automatic scramble generation, local storage, and performance statistics.
 
 - :package: Built a real-world `POS inventory reconciliation system` with Excel import/export and barcode scanning.
