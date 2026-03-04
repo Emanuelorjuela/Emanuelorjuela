@@ -9,13 +9,16 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
-- :technologist: Frontend Developer focused on `Vanilla JavaScript` and `modular architecture`.
 
+- :technologist: Frontend Developer focused on `Vanilla JavaScript` and `modular architecture`.
+- 
 - :gear: Creator of `Qubik Timer (3×3)`, a web application to measure and improve Rubik’s Cube solving times, with automatic scramble generation, local storage, and performance statistics.
 
 - :package: Built a real-world `POS inventory reconciliation system` with Excel import/export and barcode scanning.
 
 - :globe_with_meridians: I develop web applications and landing pages with `scalable structure`, `BEM methodology`, and clear separation of responsibilities.
+
+- - :nerd_face: Always learning and improving my problem-solving skills.
 
 - :rocket: Currently seeking a `Junior Developer` opportunity to apply strong technical foundations and continue growing professionally.
 
