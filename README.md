@@ -14,7 +14,7 @@
 
 - ⚙️ Creador de **Qubik Timer (3×3)**, una aplicación web para practicar el cubo Rubik que genera mezclas automáticas, guarda tiempos en el navegador y calcula estadísticas avanzadas de rendimiento.
 
--📦 Desarrollé un sistema real de conciliación de inventario tipo POS con lectura/exportación de Excel y escaneo por código de barras.
+- 📦 Desarrollé un sistema real de conciliación de inventario tipo POS con lectura/exportación de Excel y escaneo por código de barras.
 
 - 🌐 Construyo aplicaciones y landing pages con estructura escalable, BEM y separación clara de responsabilidades.
 
