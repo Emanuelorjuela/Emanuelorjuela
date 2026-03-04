@@ -10,14 +10,12 @@
 
 <br>
 
-- 👨‍💻 Frontend Developer focused on pure JavaScript (Vanilla JS) and modular architecture.
-
-- ⚙️ Creator of Qubik Timer (3×3), a web application to measure and improve Rubik’s Cube solving times, featuring automatic scramble generation, local result storage, and performance statistics.
-
-- 📦 Built a real-world POS inventory reconciliation system with Excel import/export and barcode scanning.
-
-- 🌐 I develop applications and landing pages with scalable structure, BEM methodology, and clear separation of responsibilities.
-
-- 🚀 Currently seeking a Junior Developer opportunity to contribute strong technical foundations and continue growing professionally.
+- :technologist: Frontend Developer focused on `Vanilla JavaScript` and `modular architecture`.
+- :gear: Creator of `Qubik Timer (3×3)`, a web app to track and improve Rubik’s Cube solving times with automatic scrambles and performance statistics.
+- :package: Built a real-world `POS inventory reconciliation system` with Excel import/export and barcode scanning.
+- :globe_with_meridians: I build scalable web applications using `BEM`, clear separation of responsibilities, and offline-first principles.
+- :student: Currently deepening my knowledge in `Computer Science`, `Data Structures`, and `Software Engineering`.
+- :nerd_face: Always learning and improving my problem-solving skills.
+- :rocket: Open to a new `Junior Developer` opportunity.
 
 <br>
