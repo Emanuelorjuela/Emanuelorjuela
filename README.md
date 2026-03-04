@@ -12,7 +12,7 @@
 
 - 👨‍💻 Desarrollador Frontend enfocado en JavaScript puro (Vanilla JS) y arquitectura modular.
 
-- ⚙️ Creador de **Qubik Timer (3×3)**, una aplicación web para practicar el cubo Rubik que genera mezclas automáticas, guarda tiempos en el navegador y calcula estadísticas avanzadas de rendimiento.
+- ⚙️ Creador de **Qubik Timer (3×3)**, una aplicación web para medir y mejorar tiempos resolviendo el cubo Rubik, que genera mezclas automáticamente, guarda los resultados y muestra estadísticas de progreso.
 
 - 📦 Desarrollé un sistema real de conciliación de inventario tipo POS con lectura/exportación de Excel y escaneo por código de barras.
 
