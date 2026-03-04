@@ -10,19 +10,14 @@
 
 <br><br>
 
--👨‍💻 Desarrollador Frontend especializado en JavaScript puro (Vanilla JS).
+* 👨‍💻 Desarrollador Frontend enfocado en JavaScript puro (Vanilla JS) y arquitectura modular.
 
--🧠 Me enfoco en arquitectura modular, flujo de datos consistente y aplicaciones offline-first.
+* ⚙️ Creador de **Qubik Timer (3×3)** con IndexedDB, scrambles tipo competición y estadísticas avanzadas (Mo3–Ao100).
 
--⚙️ He desarrollado proyectos completos como Qubik Timer (Speedcubing Trainer 3×3) con IndexedDB, estadísticas avanzadas (Mo3, Ao5–Ao100) y generación de scrambles tipo competición.
+* 📦 Desarrollé un sistema real de conciliación de inventario tipo POS con lectura/exportación de Excel y escaneo por código de barras.
 
--📦 Construí un sistema real de conciliación de inventario tipo POS para retail/farmacias con lectura y exportación de Excel, escaneo por código de barras y control de diferencias.
+* 🌐 Construyo aplicaciones y landing pages con estructura escalable, BEM y separación clara de responsabilidades.
 
--🌐 Desarrollo landing pages estructuradas con metodología BEM, variables CSS y sistemas de temas dinámicos.
+* 🚀 Busco una oportunidad como desarrollador Junior para aportar base técnica sólida y seguir creciendo profesionalmente.
 
--🗂️ Trabajo con arquitectura por módulos (Models, UI, Services), separación de responsabilidades y “single source of truth”.
-
--📚 Actualmente sigo profundizando en estructuras de datos, patrones de diseño y buenas prácticas de ingeniería frontend.
-
--🚀 Busco una oportunidad como desarrollador Junior donde pueda aportar solidez técnica y seguir creciendo profesionalmente.
 <br>
