@@ -39,7 +39,7 @@
   <code> <img height="90" src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGbS8zY7cesrT5t12lRvGKdg=/indexeddb-2023-01-04%2000-00-00-2025-12-04%2004-34-34"> </code>
   <code> <img height="90" src="https://jquery-plugins.net/image/plugin/sheetjs-js-xlsx-spreadsheet-parser-and-writer.png"> </code>
    <code> <img height="90" src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png"> </code>
-  <code> <img height="90" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"> </code>
+  <code> <img height="90" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"> </code>
 </p>
 
 
