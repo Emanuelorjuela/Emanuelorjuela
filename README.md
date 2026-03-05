@@ -76,9 +76,13 @@
 <a href="https://instagram.com/emx.dev">
   <img src="https://img.shields.io/badge/@emx.dev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+
 <a href="https://instagram.com/qubik_timer">
   <img src="https://img.shields.io/badge/@qubik_timer-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
+<a href="https://instagram.com/qubik_timer">
+  <img src="https://img.shields.io/badge/@qubik_timer-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
 
 
