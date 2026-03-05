@@ -76,24 +76,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Emanuelorjuela/Qubik-Timer-Profesional-de-Speedcubing"><b>Qubik- Professional Timer for Speedcubing</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Emanuelorjuela/Qubik-Timer-Profesional-de-Speedcubing?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Emanuelorjuela/Control-de-Inventario-Web-para-Farmacia"><b>Web-based Inventory Control for Pharmacies</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Emanuelorjuela/Control-de-Inventario-Web-para-Farmacia?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Emanuelorjuela/Landing-Page-Colegio-Antonio-Villavicencio"><b>Antonio Villavicencio School Landing Page</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Emanuelorjuela/Landing-Page-Colegio-Antonio-Villavicencio?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
