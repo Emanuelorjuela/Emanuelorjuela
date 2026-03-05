@@ -70,7 +70,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Emanuelorjuela&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuelorjuela&theme=dark&hide_border=true"/>
 </p>
