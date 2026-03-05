@@ -1,4 +1,4 @@
-<h1 align="center" margin="20px">Hi , I'm Emanuel Orjuela 
+<h1 align="center" margin="10px">Hi , I'm Emanuel Orjuela 
 <br>	
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 	
