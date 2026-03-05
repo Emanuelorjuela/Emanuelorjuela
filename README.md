@@ -4,7 +4,7 @@
 <a href="mailto:emanuelorjuelabarbosa12@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href=""><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+|+JavaScript;Scalable+Web+Applications" alt="Headline" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+|+JavaScript;Scalable+Web+Applications" alt="Headline"/>
 </p>
 <br>
 
