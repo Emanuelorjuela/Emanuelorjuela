@@ -65,7 +65,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuelorjuela&theme=dark&hide_border=true"/>
 </p>
 
-## 📘 My top open source projects
+## 📘 My Top Projects
 
 <br>
 
