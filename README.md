@@ -14,7 +14,8 @@
 
 
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+|+JavaScript;Scalable+Web+Applications" alt="Headline"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%238A2BE2&size=32&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+|+JavaScript;Scalable+Web+Applications" alt="Headline"/>
 </p>
 
 
