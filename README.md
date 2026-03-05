@@ -39,6 +39,8 @@
   <code> <img height="82" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png"> </code>
 </p>
 
+<br>
+
 ## ***🛠️ Technologies & Tools***
 
 <br>
@@ -53,8 +55,6 @@
 <br> 
 
 ##
-
-<br>
 
  <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
