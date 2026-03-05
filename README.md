@@ -80,8 +80,8 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Emanuelorjuela/Control-de-Inventario-Web-para-Farmacia"><b>Web-based Inventory Control for Pharmacies</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Emanuelorjuela/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
       <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
