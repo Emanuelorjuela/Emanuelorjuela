@@ -58,11 +58,11 @@
 <br> 
 
 ---
-
+<br>
  <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
