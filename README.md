@@ -81,8 +81,8 @@
   <img src="https://img.shields.io/badge/@qubik_timer-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
-<a href="https://instagram.com/qubik_timer">
-  <img src="https://img.shields.io/badge/@qubik_timer-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://www.facebook.com/profile.php?id=61587835840742">
+  <img src="https://img.shields.io/badge/Eloxb Dev-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
 
 
