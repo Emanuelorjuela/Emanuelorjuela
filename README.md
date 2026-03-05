@@ -24,7 +24,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Frontend Stack***
+## ***⚛️ Frontend Stack***
 
 <p align="center">
   <code> <img height="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png"> </code>
@@ -33,7 +33,7 @@
   <code> <img height="82" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png"> </code>
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Technologies & Tools***
+## ***🛠️ Technologies & Tools***
 
 <p align="center">
   <code> <img height="90" src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGbS8zY7cesrT5t12lRvGKdg=/indexeddb-2023-01-04%2000-00-00-2025-12-04%2004-34-34"> </code>
