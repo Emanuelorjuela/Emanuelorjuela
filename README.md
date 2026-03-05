@@ -53,7 +53,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
   <a href="https://github.com/Emanuelorjuela">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Emanuelorjuela&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
