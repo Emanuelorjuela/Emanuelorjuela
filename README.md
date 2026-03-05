@@ -73,9 +73,9 @@
 
 <br>
 
-<a src="https://www.instagram.com/emx.dev/">
-	
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<a href="https://instagram.com/emx.dev">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+
 
 
