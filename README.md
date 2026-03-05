@@ -30,6 +30,8 @@
 
 ## ***⚛️ Frontend Stack***
 
+<br>
+
 <p align="center">
   <code> <img height="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png"> </code>
   <code> <img height="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/960px-CSS3_logo_and_wordmark.svg.png"> </code>
@@ -38,6 +40,8 @@
 </p>
 
 ## ***🛠️ Technologies & Tools***
+
+<br>
 
 <p align="center">
   <code> <img height="90" src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGbS8zY7cesrT5t12lRvGKdg=/indexeddb-2023-01-04%2000-00-00-2025-12-04%2004-34-34"> </code>
