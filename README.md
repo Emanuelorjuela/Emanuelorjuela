@@ -79,7 +79,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/Emanuelorjuela/Qubik-Timer-Profesional-de-Speedcubing"><b>Qubik- Professional Timer for Speedcubing</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Emanuelorjuela/Qubik-Timer-Profesional-de-Speedcubing?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Emanuelorjuela/Qubik-Timer-Profesional-de-Speedcubing?cacheSeconds=60style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Emanuelorjuela/Control-de-Inventario-Web-para-Farmacia"><b>Web-based Inventory Control for Pharmacies</b></a></td>
