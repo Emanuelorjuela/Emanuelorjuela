@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Emanuel Orjuela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-
+<a href="https://www.instagram.com/emx.dev"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.facebook.com/profile.php?id=61587835840742"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href=""><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+|+JavaScript;Scalable+Web+Applications" alt="Headline" />
 </p>
 
