@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Emanuel Orjuela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <p>
-	<img src="Banner.png" width="500" />
+	<img src="Banner.png" width="1200" />
 </p>
 	
 <a href="https://www.instagram.com/eloxb.dev"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
