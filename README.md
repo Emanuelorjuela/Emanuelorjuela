@@ -72,5 +72,7 @@
 <table> <thead align="center"> <tr border: none;> <td><b>📘 Project</b></td> <td><b>⭐ Stars</b></td> </tr> </thead> <tbody> <tr> <td><a href="https://github.com/Emanuelorjuela/Qubik-Timer-Profesional-de-Speedcubing"><b>Qubik- Professional Timer for Speedcubing</b></a></td> <td><img alt="Stars" src="https://img.shields.io/github/stars/Emanuelorjuela/Qubik-Timer-Profesional-de-Speedcubing?style=flat-square&labelColor=343b41"/></td> </tr> <tr> <td><a href="https://github.com/Emanuelorjuela/Control-de-Inventario-Web-para-Farmacia"><b>Web-based Inventory Control for Pharmacies</b></a></td> <td><img alt="Stars" src="https://img.shields.io/github/stars/Emanuelorjuela/Control-de-Inventario-Web-para-Farmacia?style=flat-square&labelColor=343b41"/></td> </tr> <tr> <td><a href="https://github.com/Emanuelorjuela/Landing-Page-Colegio-Antonio-Villavicencio"><b>Antonio Villavicencio School Landing Page</b></a></td> <td><img alt="Stars" src="https://img.shields.io/github/stars/Emanuelorjuela/Landing-Page-Colegio-Antonio-Villavicencio?style=flat-square&labelColor=343b41"/></td> </tr> </tbody> </table>
 
 <br>
-<a src="https://www.instagram.com/emx.dev/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 
