@@ -85,4 +85,8 @@
   <img src="https://img.shields.io/badge/Eloxb Dev-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
 
+<a href="mailto:emanuelorjuelabarbosa12@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 
