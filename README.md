@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+|+JavaScript;Scalable+Web+Applications" alt="Headline"/>
 </p>
-<br>
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45px></picture> About Me
 
