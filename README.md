@@ -67,6 +67,8 @@
 
 ## 📘 My top open source projects
 
+<br>
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -89,5 +91,7 @@
     </tr>
   </tbody>
 </table>
+
+<br>
 
 
