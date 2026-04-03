@@ -103,8 +103,8 @@
   <img src="https://img.shields.io/badge/@eloxb.dev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
-<a href="https://instagram.com/qubik_timer">
-  <img src="https://img.shields.io/badge/@qubik_timer-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://instagram.com/qubik.timer">
+  <img src="https://img.shields.io/badge/@qubik.timer-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/emanuel-orjuela-barbosa-b2a6673b5/">
